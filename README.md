@@ -1,7 +1,7 @@
 # Hello :)
 My name is Andrew. I am starting to learn multiple coding languages like HTML and more!
 
-[![Languages I use](https://skillicons.dev/icons?i=html,css)]
+ OS That I use.
 
 [![SuperuserAndrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperuserAndrew)](https://github.com/anuraghazra/github-readme-stats)
 
